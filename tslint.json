@@ -3,6 +3,7 @@
     "rules": {
         "arrow-return-shorthand": true,
         "no-console": false,
-        "no-consecutive-blank-lines": false
+        "no-consecutive-blank-lines": false,
+        "prefer-const": false
     }
  }
