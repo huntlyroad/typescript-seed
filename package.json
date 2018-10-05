@@ -1,7 +1,7 @@
 {
-    "name": "lw-monthly-statistics",
+    "name": "Typescript-Seed",
     "version": "1.0.0",
-    "description": "Lightwave Monthly Statistics",
+    "description": "Descript Goes In Here",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
@@ -12,11 +12,10 @@
         "version": "npm run format && git add -A src"
     },
     "keywords": [
-        "d3",
-        "AWS",
-        "S3"
+        "seed",
+        "typescript"
     ],
-    "author": "yanghao.wang@lightwaverf.com",
+    "author": "Yanghao Wang",
     "license": "ISC",
     "devDependencies": {
         "@types/node": "^10.11.4",
