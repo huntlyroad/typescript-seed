@@ -1,1 +1,1 @@
-# Lightwave Monthly Statistics Generator
+# A Seed Project for Typescript
