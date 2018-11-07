@@ -9,6 +9,7 @@
         "build": "tsc",
         "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
         "lint": "tslint -p tsconfig.json",
+        "start": "tsc-watch --onSuccess \"node dist/index.js\"",
         "version": "npm run format && git add -A src"
     },
     "keywords": [
