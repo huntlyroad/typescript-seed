@@ -4,6 +4,11 @@
         "arrow-return-shorthand": true,
         "no-console": false,
         "no-consecutive-blank-lines": false,
-        "prefer-const": false
+        "prefer-const": false,
+        "ter-indent": 4,
+        "eofline": false,
+        "object-literal-key-quotes": false,
+        "object-literal-sort-keys": false,
+        "prefer-template": false
     }
  }
